@@ -1,0 +1,10 @@
+crosswords.c
+fibonacci(recursive,matrix_exponentiation,using hashmap)
+nthpower.c
+permutations.c
+permutations_with_duplicates.c
+print_till_limit.c
+print_mirrors_till_limit.c
+sumOfArraynumbers.c
+Number_of_ways_to_climb_steps.c
+mergesort_DLL.c
