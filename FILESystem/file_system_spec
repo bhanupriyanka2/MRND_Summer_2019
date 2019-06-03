@@ -1,0 +1,7 @@
+Commands in file system:
+1.copytofs-copy given file to filesystem
+2.copyfromfs-copy file from given filesystem
+3.delete-delete a file from filesystem
+4.format-format filesystem
+5.ls-list files in file system
+6.exit
