@@ -1,0 +1,16 @@
+Given a source file,generate output opcode file
+opcodes:
+MOV A,AX-1
+MOV AX,A-2
+ADD-3
+SUB-4
+MUL-5
+JUMP-6
+IF-7
+EQ-8
+LT-9
+GT-10
+LTEQ-11
+GTEQ-12
+PRINT-13
+READ-14
