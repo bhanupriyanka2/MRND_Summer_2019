@@ -1,0 +1,11 @@
+Commands used in excel:
+1.GET-get value
+2.SET-set a cell value
+3.PRINT-print excel sheet
+4.IMPORT-import data from file
+5.EXPORT-export data to file
+6.SAVE-save
+7.AVG-average marks of students in a subject
+8.TOTAL-total marks of a student in all subjects
+9.TOPPER-topper of a subject or whole class
+10.EXIT
